@@ -1,1 +1,2 @@
-This is an article about an experience from your past.
+1. UX 100 Humanities Project (Make Humanities Interesting)  
+In this project we were tasked with the objective of creating a modernized and appealing version of the humanities page on the Laurier website. 

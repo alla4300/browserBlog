@@ -1,1 +1,1 @@
-This would be the about page
+A UX designer with the goal of bringing your vision to life. How? By asking the right questions to understand the problem and engage in design thinking to solve that problem.

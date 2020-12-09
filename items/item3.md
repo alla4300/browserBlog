@@ -1,1 +1,2 @@
-This is an article about an experience from your past.
+3. Makers Lab "Plug'n'Play Projector"  
+In this project we created a DIY projector that projects the screen of a smartphone or Nintendo Switch. This device could be build by anyone with basic materials. This project was also targeted towards encouraging people to stay home during the pandemic.

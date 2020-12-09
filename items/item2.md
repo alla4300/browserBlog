@@ -1,1 +1,2 @@
-This is an article about an experience from your past.
+2. Makers Lab "Compact Desk Box"  
+In this Project we had to hack the conventional box and create something that is useful as well as something that would relate to the needs of people during this pandemic.
