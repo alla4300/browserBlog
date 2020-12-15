@@ -1,7 +1,26 @@
 @import url('https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css');
+h1, h2, h3, h4, h5 {
+    font-family: 'Roboto', sans-serif;
+}
+.nav-inverse .navbar-brand{
+    color:cornsilk;
 
+}
+.navbar-inverse {
+    background-color: cornflowerblue;
+}
+
+
+
+body{
+    font-family: 'Nunito', sans-serif;
+    text-align: center;
+    background-color:white ;
+}
 .navbar-nav.navbar-right:last-child {
     margin-right: 0;
+    color:cornsilk;
+
 }
 
 section#itemsInner{
@@ -18,16 +37,16 @@ div.moreleft, div.moreright {
     position: absolute;
     height: 100%;
     width: 2em;
-    background: rgba(255, 255, 255, .5);
+    background: rgba(255, 255, 255, 0.5);
     bottom: 0;
 }
 
 div.moreleft {
-    left: 0;
+    left: 5;
 }
 
 div.moreright {
-    left: 0;
+    left: 5;
 }
 
 .scrollleft, .scrollright {
@@ -41,14 +60,18 @@ div.moreright {
 }
 
 .scrollleft{
-    left: 0;
+    left: 2;
 }
 
 .scrollright{
-    right: 0;
+    right: 2;
 }
 
 a.left-button, a.right-button {
     text-decoration: none;
     color: rgb(60, 60, 60);
 }
+
+footer{
+    background-color: cornflowerblue;
+    color: white;}

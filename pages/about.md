@@ -1,1 +1,4 @@
-A UX designer with the goal of bringing your vision to life. How? By asking the right questions to understand the problem and engage in design thinking to solve that problem.
+A UX designer with the goal of bringing your vision to life. How? By asking the right questions to understand the problem and engage in design thinking to solve that problem.  
+
+## Experience
+I am currently studying at Wilfrid Laurier University. I have attained a number of skills through the UX Program. I have taken part in numerous projects that range from Modernizing the Humanities page on the Laurier website to creating a DIY projector that projects smart phone screens. I am currently learning how to code in HTML, CSS and Javascript. I am in my second year and hope to gain a moderate understanding of these coding languages. 
